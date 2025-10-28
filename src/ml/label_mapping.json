@@ -1,0 +1,21 @@
+{
+  "whey protein": "protein",
+  "casein": "protein",
+  "collagen": "protein",
+  "creatine": "creatine",
+  "bcaa": "amino_acids",
+  "amino acids": "amino_acids",
+  "pre-workout": "preworkout",
+  "electrolyte": "isotonic",
+  "isotonic": "isotonic",
+  "multivitamin": "vitamins",
+  "vitamin": "vitamins",
+  "omega-3": "omegas",
+  "fish oil": "omegas",
+  "probiotic": "probiotics",
+  "magnesium": "minerals",
+  "zinc": "minerals",
+  "ashwagandha": "herbal",
+  "turmeric": "herbal",
+  "coq10": "coq10"
+}

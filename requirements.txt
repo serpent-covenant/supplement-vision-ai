@@ -3,4 +3,8 @@ tensorflow
 numpy
 pandas
 scikit-learn
-
+requests
+pyarrow
+pillow
+torch
+torchvision
