@@ -13,3 +13,10 @@ data/processed/*.parquet
 .idea/
 .vscode/
 .gitignore
+/data/images/
+/data/raw/
+/data/processed/cv_split/
+/models/*.pt
+.DS_Store
+*.pyc
+__pycache__/
