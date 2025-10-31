@@ -20,3 +20,6 @@ data/processed/*.parquet
 .DS_Store
 *.pyc
 __pycache__/
+
+data/processed/unmapped_products.csv
+
