@@ -1,21 +1,71 @@
 {
   "whey protein": "protein",
+  "whey": "protein",
   "casein": "protein",
   "collagen": "protein",
+  "protein powder": "protein",
+  "protein supplement": "protein",
+  
   "creatine": "creatine",
+  "creatine monohydrate": "creatine",
+  
   "bcaa": "amino_acids",
   "amino acids": "amino_acids",
+  "amino acid": "amino_acids",
+  "glutamine": "amino_acids",
+  "l-glutamine": "amino_acids",
+  "beta-alanine": "amino_acids",
+  "beta alanine": "amino_acids",
+  "taurine": "amino_acids",
+  "arginine": "amino_acids",
+  "l-arginine": "amino_acids",
+  
   "pre-workout": "preworkout",
+  "pre workout": "preworkout",
+  "preworkout": "preworkout",
+  "caffeine": "preworkout",
+  "energy drink": "preworkout",
+  
   "electrolyte": "isotonic",
   "isotonic": "isotonic",
+  "hydration": "isotonic",
+  "sports drink": "isotonic",
+  
   "multivitamin": "vitamins",
   "vitamin": "vitamins",
+  "vitamin d": "vitamins",
+  "vitamin c": "vitamins",
+  "vitamin b": "vitamins",
+  
   "omega-3": "omegas",
+  "omega 3": "omegas",
   "fish oil": "omegas",
+  "epa": "omegas",
+  "dha": "omegas",
+  
   "probiotic": "probiotics",
+  "probiotics": "probiotics",
+  "gut health": "probiotics",
+  
   "magnesium": "minerals",
   "zinc": "minerals",
+  "calcium": "minerals",
+  "iron": "minerals",
+  "mineral": "minerals",
+  
   "ashwagandha": "herbal",
   "turmeric": "herbal",
-  "coq10": "coq10"
+  "curcumin": "herbal",
+  "ginseng": "herbal",
+  "maca": "herbal",
+  
+  "coq10": "coq10",
+  "coenzyme q10": "coq10",
+  
+  "melatonin": "sleep",
+  "sleep": "sleep",
+  
+  "weight gainer": "mass_gainer",
+  "mass gainer": "mass_gainer",
+  "gainer": "mass_gainer"
 }
